@@ -1,7 +1,7 @@
 ### README ###
 <h2>1. Project Details <br/></h2>
 <strong>The action space: </strong><br/>
-W - move forward.
+W - move forward. <br/>
 S - move backward. <br/>
 A - turn left. <br/>
 D - turn right. <br/>
